@@ -7,6 +7,9 @@ python version : 3.7.12
 
 Required packages are listed in : requirement.txt
 
+## Dataset
+Datasets used can be found here(https://github.com/USC-Melady/ICLR2020-PADGN) 
+
 ## Usage
 Training and validation : trainval.ipynb
 
