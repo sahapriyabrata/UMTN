@@ -1,0 +1,16 @@
+data_dir str ../data/
+dataset str noaa_ec
+n_levels int 3
+seed int 0
+max_len int 24
+in_len int 12
+eps float 0.0
+rbf str mq
+lstsq_reg float 1e-2
+n_spatial_fts int 8
+lr float 1e-3
+weight_decay float 0e-6
+num_epochs int 1000
+batch_size int 16
+inv_sig_coef int 50
+mae_list list 1,6,12
