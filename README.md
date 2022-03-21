@@ -12,8 +12,7 @@ Training and validation : trainval.ipynb
 
 Evaluation : test.ipynb
 
-
-
+## Citation
 If you find our work useful, please don't forget to cite. 
 ```
 @article{saha2022unraveled,
