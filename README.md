@@ -2,10 +2,12 @@
 
 Repository for our work [**Unraveled Multilevel Transformation Networks for Predicting Sparsely-Observed Spatiotemporal Dynamicss**](https://arxiv.org/abs/2203.08655)
 
+## Requirements
 python version : 3.7.12
 
 Required packages are listed in : requirement.txt
 
+## Usage
 Training and validation : trainval.ipynb
 
 Evaluation : test.ipynb
@@ -20,5 +22,4 @@ If you find our work useful, please don't forget to cite.
   journal={arXiv preprint arXiv:2203.08655},
   year={2022}
 }
-
 ```
