@@ -1,6 +1,6 @@
 # UMTN
 
-Repository for our work [**Unraveled Multilevel Transformation Networks for Predicting Sparsely-Observed Spatiotemporal Dynamicss**](https://arxiv.org/abs/2203.08655)
+Repository for our work [**Unravelled multilevel transformation networks for predicting sparsely observed spatio-temporal dynamics**](https://arxiv.org/abs/2203.08655)
 
 ## Requirements
 python version : 3.7.12
@@ -18,10 +18,11 @@ Evaluation : test.ipynb
 ## Citation
 If you find our work useful, please don't forget to cite. 
 ```
-@article{saha2022unraveled,
-  title={Unraveled Multilevel Transformation Networks for Predicting Sparsely-Observed Spatiotemporal Dynamics},
-  author={Saha, Priyabrata and Mukhopadhyay, Saibal},
-  journal={arXiv preprint arXiv:2203.08655},
-  year={2022}
+@article{Saha2022UnravelledMT,
+  title={Unravelled multilevel transformation networks for predicting sparsely observed spatio-temporal dynamics},
+  author={Priyabrata Saha and S. Mukhopadhyay},
+  journal={Philosophical Transactions of the Royal Society A},
+  year={2022},
+  volume={380}
 }
 ```
